@@ -1,0 +1,8 @@
+public class PrintFromGitHub{
+  public static void main(String[] args) {
+		System.out.println("iam printing from");
+		System.out.println("github");
+
+	}
+
+}
